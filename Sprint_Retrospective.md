@@ -13,7 +13,7 @@ Cory Thoma
 
 
  
-                                                                                                                                                                  Sprint Review & Retrospective
+                                                                                                                                                                  
 
 ChadaTech has historically utilized a traditional Waterfall development model to deliver custom software solutions for domestic and international clients. While this approach provided rigid structure and predictable milestone scheduling, it created significant operational friction as market demands evolved. To build a more cohesive, adaptable corporate culture, ChadaTech initiated a pilot program to transition from Waterfall to the Scrum-Agile framework, selecting my development team to lead this pilot during the development of a web application for SNHU Travel, a travel agency seeking innovative digital tools to expand its client base. As the Scrum Master leading this project, I facilitated the iterative execution of the SNHU Travel application while navigating the cultural and operational shifts inherent in moving away from Waterfall execution.
 
